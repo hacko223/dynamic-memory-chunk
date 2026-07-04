@@ -1,6 +1,6 @@
 # Dynamic Memory Chunk (dmc)
 
-DMC is a dynamic library that lets you install specialized packages based on your needs as a developer. Every package in the DMC ecosystem follows the same philosophy of `amcx` a Python library for adaptive memory chunking with compression and recovery.
+DMC is a dynamic library that lets you install specialized packages based on your needs as a developer. Every package in the DMC ecosystem follows the same philosophy of [amcx]() a Python library for adaptive memory chunking with compression and recovery.
 
 **Author:** hacko223  
 **License:** LGPL-3.0  See the [LICENSE](https://github.com/hacko223/dynamic-memory-chunk/blob/4d9b5226d4a4f7d098e7d8fe1f1aae49791e5814/LICENSE) and [LICENSE.LESSER](https://github.com/hacko223/dynamic-memory-chunk/blob/4d9b5226d4a4f7d098e7d8fe1f1aae49791e5814/LICENSE.LESSER) file for details 
