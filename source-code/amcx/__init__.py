@@ -14,7 +14,7 @@ from .exceptions import (
 )
 from .smart import SmartMemory
 
-__version__ = "0.3.4"
+__version__ = "0.3.4.1"
 __author__  = "hacko223"
 
 __all__ = [
