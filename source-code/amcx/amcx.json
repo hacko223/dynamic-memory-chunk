@@ -1,0 +1,7 @@
+{
+    "name": "amcx",
+    "version": "0.3.4",
+    "description": "Adaptive memory chunking with data compression and recovery (recommended for heavy-duty use)",
+    "author": "hacko223",
+    "license": "LGPL-3.0"
+}
