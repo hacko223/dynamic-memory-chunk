@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dmc"
+version = "0.3.1"
+description = "Dynamic Memory Chunk — dynamic library for compressed memory chunk packages, following the same philosophy of amcx"
+readme = "README.md"
+license = { text = "LGPL-3.0" }
+requires-python = ">=3.10"
+keywords = ["dmc", "dynamic", "memory", "chunk", "amcx", "compression", "agent", "package-manager"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/hacko223/dynamic-memory-chunk"
+Repository = "https://github.com/hacko223/dynamic-memory-chunk"
+
+[project.scripts]
+dmc = "dmc._cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["dmc*"]
+
+[tool.setuptools.package-data]
+dmc = ["packages/**/*"]
