@@ -1,0 +1,7 @@
+{
+    "name": "agent",
+    "version": "0.2.1.2",
+    "description": "Adaptive memory chunking with data compression and recovery, optimized for AI agents (see /source code on Github for more information)",
+    "author": "hacko223",
+    "license": "LGPL-3.0"
+}
