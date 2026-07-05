@@ -1,1 +1,12 @@
-
+[
+    {
+        "name": "amcx",
+        "version": "0.3.4.1",
+        "description": "Adaptive memory chunking for LLMs"
+    },
+    {
+        "name": "dmc_agent_format",
+        "version": "0.2.1.2",
+        "description": ".dmc format for AI agents"
+    }
+]
